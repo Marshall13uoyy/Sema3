@@ -1,0 +1,3 @@
+Primera nota: Hoy aprendí a escribir archivos en Java.
+Segunda nota: Leer archivos también es sencillo.
+Tercera nota: Practicar mejora mis habilidades.
